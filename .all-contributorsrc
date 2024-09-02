@@ -2397,6 +2397,32 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "VinayShetyeOfficial",
+      "name": "Vinay Shetye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100470361?v=4",
+      "profile": "https://github.com/VinayShetyeOfficial",
+      "contributions": [
+        "a11y",
+        "question",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "research",
+        "review",
+        "security",
+        "tool",
+        "tutorial",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
